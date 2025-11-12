@@ -1,2 +1,2 @@
-# ios-tips
-iOS tips
+# security-tips
+security tips
